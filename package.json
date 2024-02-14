@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "comp2156 lab exercise",
   "main": "index.js",
+  "homepage": "https://sudohappy.github.io/COMP2156/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
